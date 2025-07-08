@@ -64,5 +64,5 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
 
 print(" تم تنفيذ المشروع بنجاح.") 
 
-#كمل في تشات اتمتة تقارير المواقع
+
 
